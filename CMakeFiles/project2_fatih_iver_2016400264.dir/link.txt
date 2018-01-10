@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/project2_fatih_iver_2016400264.dir/main.cpp.o  -o project2_fatih_iver_2016400264 -rdynamic 

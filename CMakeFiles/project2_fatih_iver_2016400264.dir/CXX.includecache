@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/Project_2/project2-fatih-iver-2016400264/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+iterator
+-
+queue
+-
+stdio.h
+-
+
